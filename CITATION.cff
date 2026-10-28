@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this code or the per-timepoint results, please cite the paper."
+title: "Two blind spots of foreground uncertainty for review prioritisation in post-treatment glioma segmentation"
+type: software
+license: MIT
+authors:
+  - family-names: "Kiani Kalejahi"
+    given-names: "Behnam"
+    affiliation: "School of Engineering, Central Asian University, Tashkent, Uzbekistan"
+    email: "b.kiani@centralasian.uz"
+  - family-names: "Khan"
+    given-names: "Sajid"
+    affiliation: "School of Engineering, Central Asian University, Tashkent, Uzbekistan"
+  - family-names: "Manzoor"
+    given-names: "Adnan"
+    affiliation: "School of Engineering, Central Asian University, Tashkent, Uzbekistan"
